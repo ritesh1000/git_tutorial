@@ -1,4 +1,8 @@
-Developer B story has been added now.
 
+Developer B story has been added now.
 Welcome to the Thailand Agoda.
-Okay
+
+Developer A story has been added.
+Thank you.
+
+Now keeping this much code for ensure conflict resolution.
